@@ -26,6 +26,8 @@
 % <br>
 % demo_YaleB.m provides a demo for face recognition in Extended Yale B database <br>
 % (Sample rate is 1/2 and the number of training samples for each subject is 32) <br>
+<br>
 % WLRR.m is a function implementing our proposed Locality Constrained Low Rank <br>
 % Representation and Dictionary Learning (LCLRRDL). <br>
+<br>
 % L2_distance.m is a function constructing the weight matrix. <br>
