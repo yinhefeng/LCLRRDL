@@ -24,9 +24,10 @@ the Third IEEE International Smart Cities Conference (ISC2 2017) <br>
 Contact: yinhefeng@126.com <br>
 ---------------------------------------------------------------------- <br>
 <br>
+Toolbox of lrr can be downloaded from https://sites.google.com/site/guangcanliu/lrr.zip?attredirects=0&d=1 <br>
 demo_YaleB.m provides a demo for face recognition in Extended Yale B database <br>
 (Sample rate is 1/2 and the number of training samples for each subject is 32) <br>
-<br>
+<br> 
 WLRR.m is a function implementing our proposed Locality Constrained Low Rank <br>
 Representation and Dictionary Learning (LCLRRDL). <br>
 <br>
