@@ -31,4 +31,4 @@ demo_YaleB.m provides a demo for face recognition in Extended Yale B database <b
 WLRR.m is a function implementing our proposed Locality Constrained Low Rank <br>
 Representation and Dictionary Learning (LCLRRDL). <br>
 <br>
-L2_distance.m is a function constructing the weight matrix. <br>
+L2_distance.m is a function that constructs the weight matrix. <br>
