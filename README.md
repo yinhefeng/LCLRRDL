@@ -18,8 +18,7 @@ or implied warranty. <br>
 Please refer to the following paper <br>
 <br>
 He-Feng Yin and Xiao-Jun Wu "Face Recognition via Locality Constrained  <br>
-Low Rank Representation and Dictionary Learning," submitted to <br>
-the Third IEEE International Smart Cities Conference (ISC2 2017) <br>
+Low Rank Representation and Dictionary Learning," https://arxiv.org/abs/1912.03145
 <br>
 Contact: yinhefeng@126.com <br>
 ---------------------------------------------------------------------- <br>
